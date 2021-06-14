@@ -8,3 +8,6 @@ TECHNOLOGIES USED
     HTML
     Flask
 
+LICENCE
+
+MIT License
