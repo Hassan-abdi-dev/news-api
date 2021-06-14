@@ -3,7 +3,8 @@ AUTHOR
 Hassan Abdi
 
 DESCRIPTION:
-newslash is an application that displays a list of news sources from around the globe and that a user can click on view article to read the articles.
+
+newsflash is an application that displays a list of news sources from around the globe and that a user can click on view article to read the articles.
 
 CONTACT INFORMATION
 emperadam@gmail.com
