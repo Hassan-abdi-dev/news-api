@@ -2,6 +2,9 @@
 AUTHOR
 Hassan Abdi
 
+CONTACT INFORMATION
+emperadam@gmail.com
+
 TECHNOLOGIES USED
 
     Python3.8.6
